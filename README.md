@@ -6,9 +6,9 @@
 
 ## Objectives
 
-- 📌 **Review and analyze** computational approaches for studying animal behavior.
-- 📊 **Examine datasets** and benchmarks used in computational ethology.
-- 🤖 **Explore AI-driven methodologies** for improving behavioral annotation.
+- **Review and analyze** computational approaches for studying animal behavior.
+- **Examine datasets** and benchmarks used in computational ethology.
+- **Explore AI-driven methodologies** for improving behavioral annotation.
 
 ## Data Sources
 
@@ -19,11 +19,11 @@ This project is based on:
 
 ## Methodology
 
-1. 🔍 **Data Exploration**  
+1. **Data Exploration**  
    - Understanding the structure and features of behavioral datasets.
    
-2. 📊 **Benchmark Analysis**  
+2. **Benchmark Analysis**  
    - Evaluating existing methodologies and challenges in behavioral annotation.
    
-4. 🌍 **Computational Ethology Framework**  
+4. **Computational Ethology Framework**  
    - To be continued
